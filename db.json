@@ -127,6 +127,23 @@
       "content": "Digital technologies can contribute to reducing global CO2 emissions by around 15% by providing a virtual environment for applications and software.",
       "date": "2023-03-29T21:13:06.824Z",
       "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "title": "rt",
+      "authorName": "mayar mohamed",
+      "img": "null",
+      "content": "d",
+      "date": "Mon Apr 03 2023 17:53:19 GMT+0200 (Eastern European Standard Time)",
+      "id": 20
     }
   ],
   "users": [
@@ -199,6 +216,12 @@
       "username": "nada",
       "gender": "female",
       "id": 10
+    },
+    {
+      "email": "zein@gmail.com",
+      "password": "$2a$10$4JvvcXPat8dFr5stvGRpauZs.8qqrY274tUKjB8gK.TSa45WvmWBq",
+      "usename": "Zein",
+      "id": 11
     }
   ]
 }
