@@ -1,9 +1,204 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "Blogs": [
+    {
+      "title": "Cleaning River Nile",
+      "authorName": "mahetab mohamed",
+      "img": "uploads/Cleaning nile.jpg",
+      "content": "The clean-up events raise awareness about the cause while engaging youth, while also generating significant exposure and visibility. Fishermen receive a financial incentive. ",
+      "date": "2023-03-26T22:07:33.774Z",
+      "id": 1
+    },
+    {
+      "title": "Planting",
+      "authorName": "mahetab mohamed",
+      "img": "uploads/Planting.jpg",
+      "content": "Everything we eat, including meat from animals is a result of plants using the energy in sunlight to take carbon dioxide and create complex carbon-containing molecules.",
+      "date": "2023-03-26T22:25:06.634Z",
+      "id": 2
+    },
+    {
+      "title": " Collecting Contaminants",
+      "authorName": "mayar mohamed",
+      "img": "uploads/Collecting.jpg",
+      "content": " Regular cleaning and disinfecting can do a good job of removing allergens and germs, helping to prevent illnesses and promote wellness.",
+      "date": "2023-03-26T22:32:39.000Z",
+      "id": 3
+    },
+    {
+      "title": "Craft",
+      "authorName": "mayar mohamed",
+      "img": "uploads/gtu1nyvb.jpg",
+      "content": "Craft materials are one of the best sustainable products that can be used to keep your environment safe and clean. This can save environment and entertain children.",
+      "date": "2023-03-26T22:43:39.672Z",
+      "id": 4
+    },
+    {
+      "title": "Garbage Sorting",
+      "authorName": "mayar mohamed",
+      "img": "uploads/Garbage Sorting.jpg",
+      "content": "Waste sorting is important because it could increase the number of waste recycled later, thus, reducing the number of waste ends up in the landfill and the environment. ",
+      "date": "2023-03-26T22:48:54.974Z",
+      "id": 5
+    },
+    {
+      "title": "Recycle",
+      "authorName": "mohab mohamed",
+      "img": "uploads/Recycle.jpg",
+      "content": "Recycling reduces the need for extracting (mining, quarrying and logging), refining and processing raw materials all of which create substantial air and water pollution.",
+      "date": "2023-03-26T22:53:33.099Z",
+      "id": 6
+    },
+    {
+      "title": "Compost Water",
+      "authorName": "mohab mohamed",
+      "img": "uploads/Compost Water.jpg",
+      "content": "Compost improves downstream water quality by retaining pollutants such as heavy metals, nitrogen, phosphorus, oil and grease, fuels, herbicides, and pesticides.",
+      "date": "2023-03-26T22:58:57.307Z",
+      "id": 7
+    },
+    {
+      "title": "Homemade Art",
+      "authorName": "moaaz",
+      "img": "uploads/i34kxyr4.jpg",
+      "content": "Artists who create art that utilizes the waste materials recognize the earth as beleaguered with pollution as a result of mindless consumerism.",
+      "date": "2023-03-26T23:10:09.007Z",
+      "id": 8
+    },
+    {
+      "title": "Cloth Napkin",
+      "authorName": "Toqa Maher",
+      "img": "uploads/Cloth Napkin.jpg",
+      "content": "In general, cloth napkins are more sustainable because they use, considering less energy and raw materials are not used for production",
+      "date": "2023-03-26T23:18:47.369Z",
+      "id": 9
+    },
+    {
+      "title": "Seed Paper",
+      "authorName": "Toqa Maher",
+      "img": "uploads/Seed Paper.jpg",
+      "content": "Plantable seed paper can help to beautify the environment and serve as another creative way to reduce waste and repurpose used products.",
+      "date": "2023-03-26T23:22:47.963Z",
+      "id": 10
+    },
+    {
+      "title": "Eco-Friendly Products",
+      "authorName": "moaaz",
+      "img": "uploads/Eco-friendly Products.jpg",
+      "content": "Choose to purchase products from companies that prioritize sustainability and environmentally responsible practices. It can reduce recycling of waste products. ",
+      "date": "2023-03-27T13:33:47.963Z",
+      "id": 11
+    },
+    {
+      "title": "Using Water Carefully",
+      "authorName": "moaaz",
+      "img": "uploads/Using Water Carefully.jpg",
+      "content": "Wasting water can be easily used for numerous things. It can be fertiliser, a source of energy, or recycled to lower carbon footprint amongst others.",
+      "date": "2023-03-27T18:53:47.963Z",
+      "id": 12
+    },
+    {
+      "title": "Public Transportation",
+      "authorName": "Rania Atef",
+      "img": "uploads/Public Transportaion.jpg",
+      "content": "Every vehicle on the road releases an average of one pound of CO2 per mile driven. This will decrease pollutants in the atmosphere and improving air quality.",
+      "date": "2023-03-28T21:59:01.894Z",
+      "id": 13
+    },
+    {
+      "title": "Organic Food",
+      "authorName": "Toqa Maher",
+      "img": "uploads/Organic Food.jpg",
+      "date": "2023-03-29T12:39:01.894Z",
+      "content": "Organic food is farmed in an environmentally sustainable way. It takes a proactive approach to protect the environment and maintain the biodiversity of our planet. ",
+      "id": 14
+    },
+    {
+      "title": "Turning Lighhts Off",
+      "authorName": "moaaz",
+      "img": "uploads/Turning-off Lights.jpg",
+      "content": "Turning off the lights when you leave your room can help save energy. It can also help reduce carbon emission and other harmful greenhouse gases. ",
+      "date": "2023-03-29T15:28:14.557Z",
+      "id": 15
+    },
+    {
+      "title": "Go Digital",
+      "authorName": "mayar mohamed",
+      "img": "uploads/Go Digital.jpg",
+      "content": "Digital technologies can contribute to reducing global CO2 emissions by around 15% by providing a virtual environment for applications and software.",
+      "date": "2023-03-29T21:13:06.824Z",
+      "id": 16
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "email": "mayar@gmail.com",
+      "password": "$2a$10$GXyUmme5opir0kQKCVECCOZwuj8ArImKO5GQ1EvmnmQE1xFVYF76i",
+      "username": "mayar mohamed",
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "email": "mohab@gmail.com",
+      "password": "$2a$10$a4AQDLcD9uj5EIiOpFTHQul3vZKtUO4upXyRF.JnWR6C5LwhDAP3K",
+      "username": "mohab mohamed",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "email": "moaaz@gmail.com",
+      "password": "$2a$10$RA59StZdKIkHF4CZt/W/5.nJTqasqlOrh1HoLOwD.eDzD9s87QwDC",
+      "username": "moaaz",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "email": "mahetab@gmail.com",
+      "password": "$2a$10$0bReKpu2eKNddSqVd4yq9O1geHrI5w0eZiLKi.OxKrLEszKZ2wdNC",
+      "username": "mahetab mohamed",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "email": "toqa@gmail.com",
+      "password": "$2a$10$/p7RTWiiV0t/ukZEQF2Dg.d7SNKbcbD475jSeTUS4mamwSxj7ZZ0i",
+      "username": "Toqa Maher",
+      "gender": "female",
+      "id": 5
+    },
+    {
+      "email": "rania@gmail.com",
+      "password": "$2a$10$N4CHqdRpevQU/oF/N6c0SuhxylbOn0wp6NZ5RAfGL3Daq764uAhGq",
+      "username": "Rania Atef",
+      "gender": "female",
+      "id": 6
+    },
+    {
+      "email": "mai@gmail.com",
+      "password": "$2a$10$OAwnDh08ljrgH7QLheY7Ae88CePv7BoWLyeGrXPqvC4SKpeBFmAXW",
+      "username": "mai mostafa",
+      "gender": "female",
+      "id": 7
+    },
+    {
+      "email": "donia@gmail.com",
+      "password": "$2a$10$YpFkWKRmmd19RwwDkkgKQOvt7tYfY62IUM1knT1.u8qgElLaqnuhu",
+      "username": "donia mohamed",
+      "gender": "female",
+      "id": 8
+    },
+    {
+      "email": "youssef@gmail.com",
+      "password": "$2a$10$4m6oQvnkD3sHKCCmH9ULbuIESC52VXEld32dOFUwNMzti5Ndx2yM2",
+      "username": "youssef",
+      "gender": "male",
+      "id": 9
+    },
+    {
+      "email": "nada@gmail.com",
+      "password": "$2a$10$KpBtjlMMf695tkZKlrEGaekXGaSlbMwFBMaPKQIdeo5DHhUXtZWbi",
+      "username": "nada",
+      "gender": "female",
+      "id": 10
+    }
+  ]
 }
